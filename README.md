@@ -10,7 +10,3 @@ This project is a locally running url-shortener, i.e. a service that stores leng
 `# node server.js`
 - Navigate to localhost:3000 in your browser for a web interface
 
-
-
-# url-shortener
-# url-shortener
